@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\bin\Debug\net8.0\NeetCode.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\bin\Debug\net8.0\NeetCode.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\bin\Debug\net8.0\NeetCode.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\bin\Debug\net8.0\NeetCode.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\bin\Debug\net8.0\NeetCode.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\refint\NeetCode.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\NeetCode.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\NeetCode\obj\Debug\net8.0\ref\NeetCode.dll

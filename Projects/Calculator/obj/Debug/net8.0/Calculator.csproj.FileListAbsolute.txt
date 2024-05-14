@@ -1,8 +1,4 @@
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.exe
-C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.deps.json
-C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
-C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.dll
-C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.pdb
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
@@ -11,5 +7,9 @@ C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\Calculator.dll
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\refint\Calculator.dll
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\bin\Debug\net8.0\Calculator.pdb
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 C:\Users\karth\source\repos\ToDoList\CSHARP\Projects\Calculator\obj\Debug\net8.0\ref\Calculator.dll
