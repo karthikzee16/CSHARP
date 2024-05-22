@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\bin\Debug\net8.0\002_StringVariables.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\bin\Debug\net8.0\002_StringVariables.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\bin\Debug\net8.0\002_StringVariables.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\bin\Debug\net8.0\002_StringVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\bin\Debug\net8.0\002_StringVariables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\refint\002_StringVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\002_StringVariables.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\002_StringVariables\obj\Debug\net8.0\ref\002_StringVariables.dll

@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\bin\Debug\net8.0\005_DecimalVariables.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\bin\Debug\net8.0\005_DecimalVariables.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\bin\Debug\net8.0\005_DecimalVariables.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\bin\Debug\net8.0\005_DecimalVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\bin\Debug\net8.0\005_DecimalVariables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\refint\005_DecimalVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\005_DecimalVariables.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\DecimalVariables\obj\Debug\net8.0\ref\005_DecimalVariables.dll

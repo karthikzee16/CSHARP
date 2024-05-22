@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\bin\Debug\net8.0\006_BooleanVariables.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\bin\Debug\net8.0\006_BooleanVariables.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\bin\Debug\net8.0\006_BooleanVariables.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\bin\Debug\net8.0\006_BooleanVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\bin\Debug\net8.0\006_BooleanVariables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\refint\006_BooleanVariables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\006_BooleanVariables.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\BooleanVariables\obj\Debug\net8.0\ref\006_BooleanVariables.dll

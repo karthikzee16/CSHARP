@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\bin\Debug\net8.0\004_DoubleVariable.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\bin\Debug\net8.0\004_DoubleVariable.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\bin\Debug\net8.0\004_DoubleVariable.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\bin\Debug\net8.0\004_DoubleVariable.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\bin\Debug\net8.0\004_DoubleVariable.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\refint\004_DoubleVariable.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\004_DoubleVariable.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\004_DoubleVariable\obj\Debug\net8.0\ref\004_DoubleVariable.dll

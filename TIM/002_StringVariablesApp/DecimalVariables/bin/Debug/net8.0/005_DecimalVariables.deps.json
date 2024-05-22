@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "005_DecimalVariables/1.0.0": {
+        "runtime": {
+          "005_DecimalVariables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "005_DecimalVariables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
