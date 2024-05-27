@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\bin\Debug\net8.0\010_DateOnly.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\bin\Debug\net8.0\010_DateOnly.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\bin\Debug\net8.0\010_DateOnly.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\bin\Debug\net8.0\010_DateOnly.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\bin\Debug\net8.0\010_DateOnly.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\refint\010_DateOnly.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\010_DateOnly.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\010_DateOnly\obj\Debug\net8.0\ref\010_DateOnly.dll

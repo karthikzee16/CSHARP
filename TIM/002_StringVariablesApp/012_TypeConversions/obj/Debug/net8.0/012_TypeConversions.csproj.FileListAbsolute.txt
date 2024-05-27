@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\bin\Debug\net8.0\012_TypeConversions.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\bin\Debug\net8.0\012_TypeConversions.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\bin\Debug\net8.0\012_TypeConversions.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\bin\Debug\net8.0\012_TypeConversions.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\bin\Debug\net8.0\012_TypeConversions.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\refint\012_TypeConversions.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\012_TypeConversions.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TypeConversions\obj\Debug\net8.0\ref\012_TypeConversions.dll

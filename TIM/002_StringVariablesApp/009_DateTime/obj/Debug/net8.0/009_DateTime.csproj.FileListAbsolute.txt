@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\bin\Debug\net8.0\009_DateTime.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\bin\Debug\net8.0\009_DateTime.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\bin\Debug\net8.0\009_DateTime.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\bin\Debug\net8.0\009_DateTime.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\bin\Debug\net8.0\009_DateTime.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\refint\009_DateTime.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\009_DateTime.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\009_DateTime\obj\Debug\net8.0\ref\009_DateTime.dll

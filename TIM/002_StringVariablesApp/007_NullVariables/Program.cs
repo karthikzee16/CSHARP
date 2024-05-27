@@ -4,7 +4,7 @@
 // int is not nullable by default
 //int age1 = null;
 
-// int?  to make int nullable
+// int?  (to make int nullable)
 
 
 int? age = null;

@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\bin\Debug\net8.0\013_HomeWork2.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\bin\Debug\net8.0\013_HomeWork2.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\bin\Debug\net8.0\013_HomeWork2.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\bin\Debug\net8.0\013_HomeWork2.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\bin\Debug\net8.0\013_HomeWork2.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\refint\013_HomeWork2.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\013_HomeWork2.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\013_HomeWork2\obj\Debug\net8.0\ref\013_HomeWork2.dll

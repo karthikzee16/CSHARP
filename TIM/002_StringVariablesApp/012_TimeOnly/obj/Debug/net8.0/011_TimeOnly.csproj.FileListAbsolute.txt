@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\bin\Debug\net8.0\011_TimeOnly.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\bin\Debug\net8.0\011_TimeOnly.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\bin\Debug\net8.0\011_TimeOnly.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\bin\Debug\net8.0\011_TimeOnly.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\bin\Debug\net8.0\011_TimeOnly.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\refint\011_TimeOnly.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\011_TimeOnly.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\002_StringVariablesApp\012_TimeOnly\obj\Debug\net8.0\ref\011_TimeOnly.dll

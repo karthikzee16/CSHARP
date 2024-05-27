@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\bin\Debug\net8.0\RunningSum.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\bin\Debug\net8.0\RunningSum.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\bin\Debug\net8.0\RunningSum.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\bin\Debug\net8.0\RunningSum.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\bin\Debug\net8.0\RunningSum.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\refint\RunningSum.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\RunningSum.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\DSA\RunningSum\RunningSum\obj\Debug\net8.0\ref\RunningSum.dll
