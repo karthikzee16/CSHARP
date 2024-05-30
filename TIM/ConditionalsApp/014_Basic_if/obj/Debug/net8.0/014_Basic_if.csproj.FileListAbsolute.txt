@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\bin\Debug\net8.0\014_Basic_if.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\bin\Debug\net8.0\014_Basic_if.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\bin\Debug\net8.0\014_Basic_if.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\bin\Debug\net8.0\014_Basic_if.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\bin\Debug\net8.0\014_Basic_if.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\refint\014_Basic_if.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\014_Basic_if.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\014_Basic_if\obj\Debug\net8.0\ref\014_Basic_if.dll

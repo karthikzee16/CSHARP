@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\bin\Debug\net8.0\016_Switch.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\bin\Debug\net8.0\016_Switch.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\bin\Debug\net8.0\016_Switch.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\bin\Debug\net8.0\016_Switch.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\bin\Debug\net8.0\016_Switch.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\refint\016_Switch.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\016_Switch.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\016_Switch\obj\Debug\net8.0\ref\016_Switch.dll

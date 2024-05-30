@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\bin\Debug\net8.0\017_HomeWork3.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\bin\Debug\net8.0\017_HomeWork3.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\bin\Debug\net8.0\017_HomeWork3.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\bin\Debug\net8.0\017_HomeWork3.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\bin\Debug\net8.0\017_HomeWork3.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\refint\017_HomeWork3.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\017_HomeWork3.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\017_HomeWork3\obj\Debug\net8.0\ref\017_HomeWork3.dll
