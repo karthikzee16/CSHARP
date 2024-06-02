@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE49643D-2F20-4239-8C8F-EC0A791C623A}|020_HomeWork\\020_HomeWork.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\tim\\04_loopsaandlists\\020_homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE49643D-2F20-4239-8C8F-EC0A791C623A}|020_HomeWork\\020_HomeWork.csproj|solutionrelative:020_homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C187455-BDE7-455B-B806-C80D95A8E03D}|04_LoopsaAndLists\\04_LoopsaAndLists.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\tim\\04_loopsaandlists\\04_loopsaandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C187455-BDE7-455B-B806-C80D95A8E03D}|04_LoopsaAndLists\\04_LoopsaAndLists.csproj|solutionrelative:04_loopsaandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\020_HomeWork\\Program.cs",
+              "RelativeDocumentMoniker": "020_HomeWork\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\020_HomeWork\\Program.cs",
+              "RelativeToolTip": "020_HomeWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:25:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\04_LoopsaAndLists\\Program.cs",
+              "RelativeDocumentMoniker": "04_LoopsaAndLists\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\04_LoopsaAndLists\\Program.cs",
+              "RelativeToolTip": "04_LoopsaAndLists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:00:43.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

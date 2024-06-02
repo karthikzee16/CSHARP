@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\bin\Debug\net8.0\018_Requirments.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\bin\Debug\net8.0\018_Requirments.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\bin\Debug\net8.0\018_Requirments.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\bin\Debug\net8.0\018_Requirments.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\bin\Debug\net8.0\018_Requirments.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\refint\018_Requirments.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\018_Requirments.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\ConditionalsApp\018_Requirments\obj\Debug\net8.0\ref\018_Requirments.dll

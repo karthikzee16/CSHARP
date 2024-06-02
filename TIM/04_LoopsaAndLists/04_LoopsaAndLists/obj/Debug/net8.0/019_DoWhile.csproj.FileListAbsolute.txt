@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\bin\Debug\net8.0\019_DoWhile.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\bin\Debug\net8.0\019_DoWhile.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\bin\Debug\net8.0\019_DoWhile.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\bin\Debug\net8.0\019_DoWhile.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\bin\Debug\net8.0\019_DoWhile.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\refint\019_DoWhile.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\019_DoWhile.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\04_LoopsaAndLists\obj\Debug\net8.0\ref\019_DoWhile.dll

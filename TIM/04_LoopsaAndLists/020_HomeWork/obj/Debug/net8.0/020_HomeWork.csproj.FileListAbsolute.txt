@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\bin\Debug\net8.0\020_HomeWork.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\bin\Debug\net8.0\020_HomeWork.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\bin\Debug\net8.0\020_HomeWork.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\bin\Debug\net8.0\020_HomeWork.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\bin\Debug\net8.0\020_HomeWork.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\refint\020_HomeWork.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\020_HomeWork.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\020_HomeWork\obj\Debug\net8.0\ref\020_HomeWork.dll
