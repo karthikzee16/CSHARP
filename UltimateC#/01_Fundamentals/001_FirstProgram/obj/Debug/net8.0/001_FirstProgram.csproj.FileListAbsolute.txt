@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\bin\Debug\net8.0\001_FirstProgram.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\bin\Debug\net8.0\001_FirstProgram.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\bin\Debug\net8.0\001_FirstProgram.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\bin\Debug\net8.0\001_FirstProgram.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\bin\Debug\net8.0\001_FirstProgram.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\refint\001_FirstProgram.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\001_FirstProgram.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\001_FirstProgram\obj\Debug\net8.0\ref\001_FirstProgram.dll

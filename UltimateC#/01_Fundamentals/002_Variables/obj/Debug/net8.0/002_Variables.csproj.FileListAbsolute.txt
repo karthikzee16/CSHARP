@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\bin\Debug\net8.0\002_Variables.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\bin\Debug\net8.0\002_Variables.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\bin\Debug\net8.0\002_Variables.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\bin\Debug\net8.0\002_Variables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\bin\Debug\net8.0\002_Variables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\refint\002_Variables.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\002_Variables.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\002_Variables\obj\Debug\net8.0\ref\002_Variables.dll

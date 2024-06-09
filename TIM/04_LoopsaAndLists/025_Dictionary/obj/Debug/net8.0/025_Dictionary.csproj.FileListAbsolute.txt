@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\bin\Debug\net8.0\025_Dictionary.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\bin\Debug\net8.0\025_Dictionary.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\bin\Debug\net8.0\025_Dictionary.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\bin\Debug\net8.0\025_Dictionary.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\bin\Debug\net8.0\025_Dictionary.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\refint\025_Dictionary.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\025_Dictionary.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\025_Dictionary\obj\Debug\net8.0\ref\025_Dictionary.dll

@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\bin\Debug\net8.0\024_HomeWork_Lists.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\bin\Debug\net8.0\024_HomeWork_Lists.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\bin\Debug\net8.0\024_HomeWork_Lists.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\bin\Debug\net8.0\024_HomeWork_Lists.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\bin\Debug\net8.0\024_HomeWork_Lists.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\refint\024_HomeWork_Lists.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\024_HomeWork_Lists.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\024_HomeWork_Lists\obj\Debug\net8.0\ref\024_HomeWork_Lists.dll

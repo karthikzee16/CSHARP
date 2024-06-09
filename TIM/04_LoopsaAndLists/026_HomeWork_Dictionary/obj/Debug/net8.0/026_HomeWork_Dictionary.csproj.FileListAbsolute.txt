@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\bin\Debug\net8.0\026_HomeWork_Dictionary.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\bin\Debug\net8.0\026_HomeWork_Dictionary.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\bin\Debug\net8.0\026_HomeWork_Dictionary.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\bin\Debug\net8.0\026_HomeWork_Dictionary.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\bin\Debug\net8.0\026_HomeWork_Dictionary.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\refint\026_HomeWork_Dictionary.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\026_HomeWork_Dictionary.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\026_HomeWork_Dictionary\obj\Debug\net8.0\ref\026_HomeWork_Dictionary.dll

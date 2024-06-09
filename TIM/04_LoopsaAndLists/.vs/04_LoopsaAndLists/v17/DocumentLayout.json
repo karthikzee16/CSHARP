@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE49643D-2F20-4239-8C8F-EC0A791C623A}|020_HomeWork\\020_HomeWork.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\tim\\04_loopsaandlists\\020_homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE49643D-2F20-4239-8C8F-EC0A791C623A}|020_HomeWork\\020_HomeWork.csproj|solutionrelative:020_homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{243C2359-7A58-4A70-AD4F-B2A208737AC7}|026_HomeWork_Dictionary\\026_HomeWork_Dictionary.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\tim\\04_loopsaandlists\\026_homework_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C2359-7A58-4A70-AD4F-B2A208737AC7}|026_HomeWork_Dictionary\\026_HomeWork_Dictionary.csproj|solutionrelative:026_homework_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C187455-BDE7-455B-B806-C80D95A8E03D}|04_LoopsaAndLists\\04_LoopsaAndLists.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\tim\\04_loopsaandlists\\04_loopsaandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9200586-FFF7-4FDE-B00D-57C265E73C8A}|023_Lists\\023_Lists.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\023_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200586-FFF7-4FDE-B00D-57C265E73C8A}|023_Lists\\023_Lists.csproj|solutionrelative:023_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E5B874-64FF-438C-A3E1-E7AD7DC487D9}|025_Dictionary\\025_Dictionary.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\025_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E5B874-64FF-438C-A3E1-E7AD7DC487D9}|025_Dictionary\\025_Dictionary.csproj|solutionrelative:025_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0021592-6A91-4A54-8292-CF4F14569697}|024_HomeWork_Lists\\024_HomeWork_Lists.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\024_homework_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0021592-6A91-4A54-8292-CF4F14569697}|024_HomeWork_Lists\\024_HomeWork_Lists.csproj|solutionrelative:024_homework_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549418AF-C822-4F9F-8D1B-7FF1EDDE575C}|021_Array\\021_Array.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\021_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549418AF-C822-4F9F-8D1B-7FF1EDDE575C}|021_Array\\021_Array.csproj|solutionrelative:021_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C187455-BDE7-455B-B806-C80D95A8E03D}|04_LoopsaAndLists\\019_DoWhile.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\04_loopsaandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C187455-BDE7-455B-B806-C80D95A8E03D}|04_LoopsaAndLists\\019_DoWhile.csproj|solutionrelative:04_loopsaandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C187455-BDE7-455B-B806-C80D95A8E03D}|04_LoopsaAndLists\\04_LoopsaAndLists.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\04_loopsaandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C187455-BDE7-455B-B806-C80D95A8E03D}|04_LoopsaAndLists\\04_LoopsaAndLists.csproj|solutionrelative:04_loopsaandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE49643D-2F20-4239-8C8F-EC0A791C623A}|020_HomeWork\\020_HomeWork.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\020_homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE49643D-2F20-4239-8C8F-EC0A791C623A}|020_HomeWork\\020_HomeWork.csproj|solutionrelative:020_homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,18 +48,67 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\020_HomeWork\\Program.cs",
-              "RelativeDocumentMoniker": "020_HomeWork\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\020_HomeWork\\Program.cs",
-              "RelativeToolTip": "020_HomeWork\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\026_HomeWork_Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "026_HomeWork_Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\026_HomeWork_Dictionary\\Program.cs",
+              "RelativeToolTip": "026_HomeWork_Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T17:25:14.075Z",
+              "WhenOpened": "2024-06-09T06:16:38.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\025_Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "025_Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\025_Dictionary\\Program.cs",
+              "RelativeToolTip": "025_Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:36:19.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\024_HomeWork_Lists\\Program.cs",
+              "RelativeDocumentMoniker": "024_HomeWork_Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\024_HomeWork_Lists\\Program.cs",
+              "RelativeToolTip": "024_HomeWork_Lists\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:50:39.469Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\023_Lists\\Program.cs",
+              "RelativeDocumentMoniker": "023_Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\023_Lists\\Program.cs",
+              "RelativeToolTip": "023_Lists\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:17:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\021_Array\\Program.cs",
+              "RelativeDocumentMoniker": "021_Array\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\021_Array\\Program.cs",
+              "RelativeToolTip": "021_Array\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:46:57.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\04_LoopsaAndLists\\Program.cs",
               "RelativeDocumentMoniker": "04_LoopsaAndLists\\Program.cs",
@@ -43,8 +116,31 @@
               "RelativeToolTip": "04_LoopsaAndLists\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T17:00:43.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T05:44:28.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\020_HomeWork\\Program.cs",
+              "RelativeDocumentMoniker": "020_HomeWork\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\020_HomeWork\\Program.cs",
+              "RelativeToolTip": "020_HomeWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:25:14.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\04_LoopsaAndLists\\Program.cs",
+              "RelativeDocumentMoniker": "04_LoopsaAndLists\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\04_LoopsaAndLists\\04_LoopsaAndLists\\Program.cs",
+              "RelativeToolTip": "04_LoopsaAndLists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:00:43.086Z"
             }
           ]
         }

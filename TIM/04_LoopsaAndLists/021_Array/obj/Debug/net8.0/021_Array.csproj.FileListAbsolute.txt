@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\bin\Debug\net8.0\021_Array.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\bin\Debug\net8.0\021_Array.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\bin\Debug\net8.0\021_Array.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\bin\Debug\net8.0\021_Array.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\bin\Debug\net8.0\021_Array.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\refint\021_Array.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\021_Array.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\TIM\04_LoopsaAndLists\021_Array\obj\Debug\net8.0\ref\021_Array.dll
