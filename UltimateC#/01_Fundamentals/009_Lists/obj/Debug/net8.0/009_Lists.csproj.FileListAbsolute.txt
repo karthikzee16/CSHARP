@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\bin\Debug\net8.0\009_Lists.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\bin\Debug\net8.0\009_Lists.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\bin\Debug\net8.0\009_Lists.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\bin\Debug\net8.0\009_Lists.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\bin\Debug\net8.0\009_Lists.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\refint\009_Lists.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\009_Lists.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\009_Lists\obj\Debug\net8.0\ref\009_Lists.dll

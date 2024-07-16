@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\bin\Debug\net8.0\029_Casting.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\bin\Debug\net8.0\029_Casting.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\bin\Debug\net8.0\029_Casting.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\bin\Debug\net8.0\029_Casting.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\bin\Debug\net8.0\029_Casting.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\refint\029_Casting.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\029_Casting.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\029_Casting\obj\Debug\net8.0\ref\029_Casting.dll

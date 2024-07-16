@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\bin\Debug\net8.0\007_Array.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\bin\Debug\net8.0\007_Array.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\bin\Debug\net8.0\007_Array.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\bin\Debug\net8.0\007_Array.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\bin\Debug\net8.0\007_Array.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\refint\007_Array.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\007_Array.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\01_Fundamentals\007_Array\obj\Debug\net8.0\ref\007_Array.dll

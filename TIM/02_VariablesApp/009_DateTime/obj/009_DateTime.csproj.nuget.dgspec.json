@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_DateTime\\009_DateTime.csproj": {}
+    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_DateTime\\009_DateTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_DateTime\\009_DateTime.csproj": {
+    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_DateTime\\009_DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_DateTime\\009_DateTime.csproj",
+        "projectUniqueName": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_DateTime\\009_DateTime.csproj",
         "projectName": "009_DateTime",
-        "projectPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_DateTime\\009_DateTime.csproj",
+        "projectPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_DateTime\\009_DateTime.csproj",
         "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_DateTime\\obj\\",
+        "outputPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_DateTime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

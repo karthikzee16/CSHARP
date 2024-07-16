@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\bin\Debug\net8.0\021_Static.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\bin\Debug\net8.0\021_Static.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\bin\Debug\net8.0\021_Static.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\bin\Debug\net8.0\021_Static.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\bin\Debug\net8.0\021_Static.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\refint\021_Static.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\021_Static.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\021_Static\obj\Debug\net8.0\ref\021_Static.dll

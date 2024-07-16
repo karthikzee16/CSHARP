@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\",
+  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1792699-5E9A-461B-B21F-0782DE44CF04}|007_NullVariables\\007_NullVariables.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\tim\\002_variablesapp\\007_nullvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1792699-5E9A-461B-B21F-0782DE44CF04}|007_NullVariables\\007_NullVariables.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\tim\\02_variablesapp\\007_nullvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1792699-5E9A-461B-B21F-0782DE44CF04}|007_NullVariables\\007_NullVariables.csproj|solutionrelative:007_nullvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F814294-E74F-4840-9004-4AFFFE45DA51}|008_HomeWork1\\008_HomeWork1.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\008_homework1\\008_homework1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0F814294-E74F-4840-9004-4AFFFE45DA51}|008_HomeWork1\\008_HomeWork1.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\008_homework1\\008_homework1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0F814294-E74F-4840-9004-4AFFFE45DA51}|008_HomeWork1\\008_HomeWork1.csproj|solutionrelative:008_homework1\\008_homework1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1792699-5E9A-461B-B21F-0782DE44CF04}|007_NullVariables\\007_NullVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_nullvariables\\007_nullvariables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A1792699-5E9A-461B-B21F-0782DE44CF04}|007_NullVariables\\007_NullVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_nullvariables\\007_nullvariables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A1792699-5E9A-461B-B21F-0782DE44CF04}|007_NullVariables\\007_NullVariables.csproj|solutionrelative:007_nullvariables\\007_nullvariables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{166BBF3B-9ECF-4F19-99F9-BB8BE70CE1D7}|013_HomeWork2\\013_HomeWork2.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\013_homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{166BBF3B-9ECF-4F19-99F9-BB8BE70CE1D7}|013_HomeWork2\\013_HomeWork2.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\013_homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{166BBF3B-9ECF-4F19-99F9-BB8BE70CE1D7}|013_HomeWork2\\013_HomeWork2.csproj|solutionrelative:013_homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D325C1-CCCA-459A-AF44-A8044E43E1BE}|012_TypeConversions\\012_TypeConversions.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\012_typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20D325C1-CCCA-459A-AF44-A8044E43E1BE}|012_TypeConversions\\012_TypeConversions.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\012_typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20D325C1-CCCA-459A-AF44-A8044E43E1BE}|012_TypeConversions\\012_TypeConversions.csproj|solutionrelative:012_typeconversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E1E587-8548-4B73-B2BA-A0834A5811BD}|012_TimeOnly\\012_TimeOnly.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\012_timeonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0E1E587-8548-4B73-B2BA-A0834A5811BD}|012_TimeOnly\\012_TimeOnly.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\012_timeonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0E1E587-8548-4B73-B2BA-A0834A5811BD}|012_TimeOnly\\012_TimeOnly.csproj|solutionrelative:012_timeonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CA292B5-BAAE-438A-82FC-17781F88CCBA}|010_DateOnly\\010_DateOnly.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\010_dateonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CA292B5-BAAE-438A-82FC-17781F88CCBA}|010_DateOnly\\010_DateOnly.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\010_dateonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CA292B5-BAAE-438A-82FC-17781F88CCBA}|010_DateOnly\\010_DateOnly.csproj|solutionrelative:010_dateonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84C1D9FF-F5DD-4576-961D-0C11CC2836D7}|009_DateTime\\009_DateTime.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84C1D9FF-F5DD-4576-961D-0C11CC2836D7}|009_DateTime\\009_DateTime.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C1D9FF-F5DD-4576-961D-0C11CC2836D7}|009_DateTime\\009_DateTime.csproj|solutionrelative:009_datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F814294-E74F-4840-9004-4AFFFE45DA51}|008_HomeWork1\\008_HomeWork1.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\008_homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F814294-E74F-4840-9004-4AFFFE45DA51}|008_HomeWork1\\008_HomeWork1.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\008_homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F814294-E74F-4840-9004-4AFFFE45DA51}|008_HomeWork1\\008_HomeWork1.csproj|solutionrelative:008_homework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66235A3-DDBD-4CDD-8134-73F2FF9A35B0}|BooleanVariables\\006_BooleanVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\booleanvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E66235A3-DDBD-4CDD-8134-73F2FF9A35B0}|BooleanVariables\\006_BooleanVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\booleanvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E66235A3-DDBD-4CDD-8134-73F2FF9A35B0}|BooleanVariables\\006_BooleanVariables.csproj|solutionrelative:booleanvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66235A3-DDBD-4CDD-8134-73F2FF9A35B0}|BooleanVariables\\BooleanVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\booleanvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E66235A3-DDBD-4CDD-8134-73F2FF9A35B0}|BooleanVariables\\BooleanVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\booleanvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E66235A3-DDBD-4CDD-8134-73F2FF9A35B0}|BooleanVariables\\BooleanVariables.csproj|solutionrelative:booleanvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3BBA7F4-05A5-44B4-BFE1-249FD9E9F429}|DecimalVariables\\DecimalVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\decimalvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3BBA7F4-05A5-44B4-BFE1-249FD9E9F429}|DecimalVariables\\DecimalVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\decimalvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3BBA7F4-05A5-44B4-BFE1-249FD9E9F429}|DecimalVariables\\DecimalVariables.csproj|solutionrelative:decimalvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E502640E-6D84-4A45-99DF-BAC3F7843853}|004_DoubleVariable\\004_DoubleVariable.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\004_doublevariable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E502640E-6D84-4A45-99DF-BAC3F7843853}|004_DoubleVariable\\004_DoubleVariable.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\004_doublevariable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E502640E-6D84-4A45-99DF-BAC3F7843853}|004_DoubleVariable\\004_DoubleVariable.csproj|solutionrelative:004_doublevariable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976D8A48-3B3E-47F0-92DD-A3CBCC7F821E}|003_IntVariables\\003_IntVariables\\003_IntVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\003_intvariables\\003_intvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{976D8A48-3B3E-47F0-92DD-A3CBCC7F821E}|003_IntVariables\\003_IntVariables\\003_IntVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\003_intvariables\\003_intvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976D8A48-3B3E-47F0-92DD-A3CBCC7F821E}|003_IntVariables\\003_IntVariables\\003_IntVariables.csproj|solutionrelative:003_intvariables\\003_intvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{799F79D0-FC90-4A26-A939-5D2A6F76EFE0}|002_StringVariables\\002_StringVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\002_stringvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{799F79D0-FC90-4A26-A939-5D2A6F76EFE0}|002_StringVariables\\002_StringVariables.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\002_stringvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{799F79D0-FC90-4A26-A939-5D2A6F76EFE0}|002_StringVariables\\002_StringVariables.csproj|solutionrelative:002_stringvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "008_HomeWork1",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\008_HomeWork1\\008_HomeWork1.csproj",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\008_HomeWork1\\008_HomeWork1.csproj",
               "RelativeDocumentMoniker": "008_HomeWork1\\008_HomeWork1.csproj",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\008_HomeWork1\\008_HomeWork1.csproj",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\008_HomeWork1\\008_HomeWork1.csproj",
               "RelativeToolTip": "008_HomeWork1\\008_HomeWork1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -88,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\013_HomeWork2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\013_HomeWork2\\Program.cs",
               "RelativeDocumentMoniker": "013_HomeWork2\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\013_HomeWork2\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\013_HomeWork2\\Program.cs",
               "RelativeToolTip": "013_HomeWork2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\012_TypeConversions\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\012_TypeConversions\\Program.cs",
               "RelativeDocumentMoniker": "012_TypeConversions\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\012_TypeConversions\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\012_TypeConversions\\Program.cs",
               "RelativeToolTip": "012_TypeConversions\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\012_TimeOnly\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\012_TimeOnly\\Program.cs",
               "RelativeDocumentMoniker": "012_TimeOnly\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\012_TimeOnly\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\012_TimeOnly\\Program.cs",
               "RelativeToolTip": "012_TimeOnly\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\010_DateOnly\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\010_DateOnly\\Program.cs",
               "RelativeDocumentMoniker": "010_DateOnly\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\010_DateOnly\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\010_DateOnly\\Program.cs",
               "RelativeToolTip": "010_DateOnly\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_DateTime\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_DateTime\\Program.cs",
               "RelativeDocumentMoniker": "009_DateTime\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\009_DateTime\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\009_DateTime\\Program.cs",
               "RelativeToolTip": "009_DateTime\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,9 +148,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\008_HomeWork1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\008_HomeWork1\\Program.cs",
               "RelativeDocumentMoniker": "008_HomeWork1\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\008_HomeWork1\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\008_HomeWork1\\Program.cs",
               "RelativeToolTip": "008_HomeWork1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,9 +160,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\BooleanVariables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\BooleanVariables\\Program.cs",
               "RelativeDocumentMoniker": "BooleanVariables\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\BooleanVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\BooleanVariables\\Program.cs",
               "RelativeToolTip": "BooleanVariables\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,9 +172,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "007_NullVariables.csproj",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
               "RelativeDocumentMoniker": "007_NullVariables\\007_NullVariables.csproj",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
               "RelativeToolTip": "007_NullVariables\\007_NullVariables.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -184,11 +184,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_NullVariables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_NullVariables\\Program.cs",
               "RelativeDocumentMoniker": "007_NullVariables\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_NullVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_NullVariables\\Program.cs",
               "RelativeToolTip": "007_NullVariables\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T18:22:51.938Z",
               "EditorCaption": ""
@@ -197,9 +197,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\BooleanVariables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\BooleanVariables\\Program.cs",
               "RelativeDocumentMoniker": "BooleanVariables\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\BooleanVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\BooleanVariables\\Program.cs",
               "RelativeToolTip": "BooleanVariables\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,9 +209,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\DecimalVariables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\DecimalVariables\\Program.cs",
               "RelativeDocumentMoniker": "DecimalVariables\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\DecimalVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\DecimalVariables\\Program.cs",
               "RelativeToolTip": "DecimalVariables\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\004_DoubleVariable\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\004_DoubleVariable\\Program.cs",
               "RelativeDocumentMoniker": "004_DoubleVariable\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\004_DoubleVariable\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\004_DoubleVariable\\Program.cs",
               "RelativeToolTip": "004_DoubleVariable\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\003_IntVariables\\003_IntVariables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\003_IntVariables\\003_IntVariables\\Program.cs",
               "RelativeDocumentMoniker": "003_IntVariables\\003_IntVariables\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\003_IntVariables\\003_IntVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\003_IntVariables\\003_IntVariables\\Program.cs",
               "RelativeToolTip": "003_IntVariables\\003_IntVariables\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,13 +245,23 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\002_StringVariables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\002_StringVariables\\Program.cs",
               "RelativeDocumentMoniker": "002_StringVariables\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\002_StringVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\002_StringVariables\\Program.cs",
               "RelativeToolTip": "002_StringVariables\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:35:40.222Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 879,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

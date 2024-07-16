@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
+      "projectUniqueName": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
       "projectName": "007_NullVariables",
-      "projectPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
+      "projectPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_NullVariables\\007_NullVariables.csproj",
       "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\007_NullVariables\\obj\\",
+      "outputPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\007_NullVariables\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

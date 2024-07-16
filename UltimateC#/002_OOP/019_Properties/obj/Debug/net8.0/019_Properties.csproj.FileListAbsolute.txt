@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\bin\Debug\net8.0\019_Properties.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\bin\Debug\net8.0\019_Properties.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\bin\Debug\net8.0\019_Properties.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\bin\Debug\net8.0\019_Properties.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\bin\Debug\net8.0\019_Properties.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\refint\019_Properties.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\019_Properties.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\019_Properties\obj\Debug\net8.0\ref\019_Properties.dll

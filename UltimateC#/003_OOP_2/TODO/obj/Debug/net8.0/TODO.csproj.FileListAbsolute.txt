@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\bin\Debug\net8.0\TODO.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\bin\Debug\net8.0\TODO.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\bin\Debug\net8.0\TODO.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\bin\Debug\net8.0\TODO.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\bin\Debug\net8.0\TODO.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\refint\TODO.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\TODO.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\TODO\obj\Debug\net8.0\ref\TODO.dll

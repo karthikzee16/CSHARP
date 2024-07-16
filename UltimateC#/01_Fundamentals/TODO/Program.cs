@@ -1,7 +1,4 @@
 ﻿
-// using HashSet as each TODO must be unique (No duplicates allowed)
-
-
 List<string> todos = new List<string>();
 Console.WriteLine("Hello!");
 

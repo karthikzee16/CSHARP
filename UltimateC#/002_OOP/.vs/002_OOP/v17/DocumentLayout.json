@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA41FD2-A2BF-4EAE-B47F-140CC5D600C1}|019_Properties\\019_Properties.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\019_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA41FD2-A2BF-4EAE-B47F-140CC5D600C1}|019_Properties\\019_Properties.csproj|solutionrelative:019_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACC448-CF8B-4BA7-9A76-029153B68D0A}|ToDo\\DiceRoll.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ACC448-CF8B-4BA7-9A76-029153B68D0A}|ToDo\\DiceRoll.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAC76F3-C2C0-47C9-BFC0-3FC32B1D96AF}|023_ENUM\\023_ENUM.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\023_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAC76F3-C2C0-47C9-BFC0-3FC32B1D96AF}|023_ENUM\\023_ENUM.csproj|solutionrelative:023_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ACC448-CF8B-4BA7-9A76-029153B68D0A}|ToDo\\DiceRoll.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\todo\\diceroll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59ACC448-CF8B-4BA7-9A76-029153B68D0A}|ToDo\\DiceRoll.csproj|solutionrelative:todo\\diceroll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF433803-5A10-4711-97C1-F29CE3EBD398}|022_SRP\\022_SRP.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\022_srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF433803-5A10-4711-97C1-F29CE3EBD398}|022_SRP\\022_SRP.csproj|solutionrelative:022_srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77471843-0FDF-4EA0-BE83-BF5D2AFDB8A8}|021_Static\\021_Static.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\021_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77471843-0FDF-4EA0-BE83-BF5D2AFDB8A8}|021_Static\\021_Static.csproj|solutionrelative:021_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D312A4-70A3-4DA3-A5ED-0F93924BEA4B}|020_ObjectInitializers\\020_ObjectInitializers.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\020_objectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D312A4-70A3-4DA3-A5ED-0F93924BEA4B}|020_ObjectInitializers\\020_ObjectInitializers.csproj|solutionrelative:020_objectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168E179C-A22E-4151-906A-2CEC93B8E35B}|018_nameOF_and_validation\\018_nameof_and_validation.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\018_nameof_and_validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E179C-A22E-4151-906A-2CEC93B8E35B}|018_nameOF_and_validation\\018_nameof_and_validation.csproj|solutionrelative:018_nameof_and_validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F5C6F-6D77-4606-978B-9B29DCE9DA7B}|017_OptionalParameters\\017_OptionalParameters.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\017_optionalparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F5C6F-6D77-4606-978B-9B29DCE9DA7B}|017_OptionalParameters\\017_OptionalParameters.csproj|solutionrelative:017_optionalparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C77C4A-6635-4C9E-816D-451D19EE777F}|016_new_exp_method\\016_new_exp_method.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\016_new_exp_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C77C4A-6635-4C9E-816D-451D19EE777F}|016_new_exp_method\\016_new_exp_method.csproj|solutionrelative:016_new_exp_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A01EAA-6D8E-4DDC-A037-26613185ADDB}|015_Quiz\\015_Quiz.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\015_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A01EAA-6D8E-4DDC-A037-26613185ADDB}|015_Quiz\\015_Quiz.csproj|solutionrelative:015_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB6644-9611-482E-A084-A33AA98A6217}|014_MethodOverloading\\014_Overloading.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\014_methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BB6644-9611-482E-A084-A33AA98A6217}|014_MethodOverloading\\014_Overloading.csproj|solutionrelative:014_methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1425D375-A6FE-45D1-B722-D5A6FC8CE789}|013_Abstraction\\013_Class.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\013_abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1425D375-A6FE-45D1-B722-D5A6FC8CE789}|013_Abstraction\\013_Class.csproj|solutionrelative:013_abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA1A4E0-EC17-4EA7-B5E3-CC7FFDD03DE5}|012_Class\\012_OOP.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\002_oop\\012_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA1A4E0-EC17-4EA7-B5E3-CC7FFDD03DE5}|012_Class\\012_OOP.csproj|solutionrelative:012_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 126,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\ToDo\\Program.cs",
+              "RelativeDocumentMoniker": "ToDo\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\ToDo\\Program.cs",
+              "RelativeToolTip": "ToDo\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:34:28.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\023_ENUM\\Program.cs",
+              "RelativeDocumentMoniker": "023_ENUM\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\023_ENUM\\Program.cs",
+              "RelativeToolTip": "023_ENUM\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA0wAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:32:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiceRoll",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\ToDo\\DiceRoll.csproj",
+              "RelativeDocumentMoniker": "ToDo\\DiceRoll.csproj",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\ToDo\\DiceRoll.csproj",
+              "RelativeToolTip": "ToDo\\DiceRoll.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T14:32:36.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\022_SRP\\Program.cs",
+              "RelativeDocumentMoniker": "022_SRP\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\022_SRP\\Program.cs",
+              "RelativeToolTip": "022_SRP\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:26:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\021_Static\\Program.cs",
+              "RelativeDocumentMoniker": "021_Static\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\021_Static\\Program.cs",
+              "RelativeToolTip": "021_Static\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAA0wHcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:24:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\020_ObjectInitializers\\Program.cs",
+              "RelativeDocumentMoniker": "020_ObjectInitializers\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\020_ObjectInitializers\\Program.cs",
+              "RelativeToolTip": "020_ObjectInitializers\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:22:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\019_Properties\\Program.cs",
+              "RelativeDocumentMoniker": "019_Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\019_Properties\\Program.cs",
+              "RelativeToolTip": "019_Properties\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:18:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\018_nameOF_and_validation\\Program.cs",
+              "RelativeDocumentMoniker": "018_nameOF_and_validation\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\018_nameOF_and_validation\\Program.cs",
+              "RelativeToolTip": "018_nameOF_and_validation\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:16:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\017_OptionalParameters\\Program.cs",
+              "RelativeDocumentMoniker": "017_OptionalParameters\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\017_OptionalParameters\\Program.cs",
+              "RelativeToolTip": "017_OptionalParameters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:15:08.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\016_new_exp_method\\Program.cs",
+              "RelativeDocumentMoniker": "016_new_exp_method\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\016_new_exp_method\\Program.cs",
+              "RelativeToolTip": "016_new_exp_method\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA4wBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:14:10.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\015_Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "015_Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\015_Quiz\\Program.cs",
+              "RelativeToolTip": "015_Quiz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:12:56.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\014_MethodOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "014_MethodOverloading\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\014_MethodOverloading\\Program.cs",
+              "RelativeToolTip": "014_MethodOverloading\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:10:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\013_Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "013_Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\013_Abstraction\\Program.cs",
+              "RelativeToolTip": "013_Abstraction\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:07:21.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\012_Class\\Program.cs",
+              "RelativeDocumentMoniker": "012_Class\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\002_OOP\\012_Class\\Program.cs",
+              "RelativeToolTip": "012_Class\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:00:32.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

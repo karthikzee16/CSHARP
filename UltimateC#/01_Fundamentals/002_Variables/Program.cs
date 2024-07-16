@@ -20,6 +20,18 @@ Console.WriteLine("Please enter any string:");
 userInput = Console.ReadLine();
 Console.WriteLine(userInput);
 
+/* Variable names convention*/
+
+/* keywords can't be used as variable names.
+ * to use keyword as variable name use @
+ * Names can contain letters, digits and the underscore character (_), 
+ * but the first character cannot be a digit.
+ * C# is case sensitive. thus "count" and "Count" refer to two different variables.
+ */
+
+string @class = "first";
+
+
 /* lowerCamel case 
  * is the standard followed for naming variable names 
  * The variable names should be meanigful and precise */
@@ -35,6 +47,7 @@ string anotherVariable = "test too"; // Declaration & Initialization
 
 /* "ctrl+RR" to rename all occurences of a variable
  */
+
 
 
 Console.ReadKey();

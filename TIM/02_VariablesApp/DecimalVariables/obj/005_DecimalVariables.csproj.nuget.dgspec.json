@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj": {}
+    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj": {
+    "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj",
+        "projectUniqueName": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj",
         "projectName": "005_DecimalVariables",
-        "projectPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj",
+        "projectPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\DecimalVariables\\005_DecimalVariables.csproj",
         "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\DecimalVariables\\obj\\",
+        "outputPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\DecimalVariables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

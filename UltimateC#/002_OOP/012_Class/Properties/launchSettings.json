@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "012_Class": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\bin\Debug\net8.0\022_SRP.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\bin\Debug\net8.0\022_SRP.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\bin\Debug\net8.0\022_SRP.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\bin\Debug\net8.0\022_SRP.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\bin\Debug\net8.0\022_SRP.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\refint\022_SRP.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\022_SRP.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\022_SRP\obj\Debug\net8.0\ref\022_SRP.dll

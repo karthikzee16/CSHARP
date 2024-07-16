@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\bin\Debug\net8.0\025_Virtual.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\bin\Debug\net8.0\025_Virtual.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\bin\Debug\net8.0\025_Virtual.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\bin\Debug\net8.0\025_Virtual.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\bin\Debug\net8.0\025_Virtual.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\refint\025_Virtual.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\025_Virtual.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\025_Virtual\obj\Debug\net8.0\ref\025_Virtual.dll

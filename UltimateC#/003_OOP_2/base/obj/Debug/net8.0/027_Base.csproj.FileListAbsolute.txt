@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\bin\Debug\net8.0\027_Base.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\bin\Debug\net8.0\027_Base.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\bin\Debug\net8.0\027_Base.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\bin\Debug\net8.0\027_Base.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\bin\Debug\net8.0\027_Base.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\refint\027_Base.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\027_Base.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\003_OOP_2\base\obj\Debug\net8.0\ref\027_Base.dll

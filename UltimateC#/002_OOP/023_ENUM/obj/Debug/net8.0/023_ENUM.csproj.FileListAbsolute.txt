@@ -1,0 +1,15 @@
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\bin\Debug\net8.0\023_ENUM.exe
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\bin\Debug\net8.0\023_ENUM.deps.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\bin\Debug\net8.0\023_ENUM.runtimeconfig.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\bin\Debug\net8.0\023_ENUM.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\bin\Debug\net8.0\023_ENUM.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.AssemblyInfo.cs
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.sourcelink.json
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\refint\023_ENUM.dll
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.pdb
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\023_ENUM.genruntimeconfig.cache
+C:\Users\karth\source\repos\ToDoList\CSHARP\UltimateC#\002_OOP\023_ENUM\obj\Debug\net8.0\ref\023_ENUM.dll

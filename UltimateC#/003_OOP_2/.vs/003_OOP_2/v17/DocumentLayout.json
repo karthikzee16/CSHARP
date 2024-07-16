@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24FD5CF9-9D21-4CDA-A984-DFC3AF4C0CA1}|029_Casting\\029_Casting.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\003_oop_2\\029_casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FD5CF9-9D21-4CDA-A984-DFC3AF4C0CA1}|029_Casting\\029_Casting.csproj|solutionrelative:029_casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07A787A-5FC5-4947-B6BD-2002565D19C4}|TODO\\TODO.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07A787A-5FC5-4947-B6BD-2002565D19C4}|TODO\\TODO.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848DFC54-8F8E-45BA-B1D7-C4B0E75E2E88}|base\\base.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\003_oop_2\\base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848DFC54-8F8E-45BA-B1D7-C4B0E75E2E88}|base\\base.csproj|solutionrelative:base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D6C4D7-23CC-4FB4-880A-8E04A99F6C00}|028_Conversions\\028_Conversions.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\003_oop_2\\028_conversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D6C4D7-23CC-4FB4-880A-8E04A99F6C00}|028_Conversions\\028_Conversions.csproj|solutionrelative:028_conversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79E5E7A-50B1-4B0D-9B8B-DA0430FBE083}|026_SystemObject\\026_SystemObject.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\003_oop_2\\026_systemobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79E5E7A-50B1-4B0D-9B8B-DA0430FBE083}|026_SystemObject\\026_SystemObject.csproj|solutionrelative:026_systemobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CDD586-EBB3-4869-A888-9BE319E43406}|024_Polymorphism\\024_Polymorphism.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\024_polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CDD586-EBB3-4869-A888-9BE319E43406}|024_Polymorphism\\024_Polymorphism.csproj|solutionrelative:024_polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CD8535-667C-48C4-86D7-0DCC4AB5B2CB}|025_Virtual\\025_Virtual.csproj|C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\025_virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CD8535-667C-48C4-86D7-0DCC4AB5B2CB}|025_Virtual\\025_Virtual.csproj|solutionrelative:025_virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CD8535-667C-48C4-86D7-0DCC4AB5B2CB}|025_Virtual\\025_Virtual.csproj|c:\\users\\karth\\source\\repos\\todolist\\csharp\\ultimatec#\\003_oop_2\\025_virtual\\virtual.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{44CD8535-667C-48C4-86D7-0DCC4AB5B2CB}|025_Virtual\\025_Virtual.csproj|solutionrelative:025_virtual\\virtual.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 45,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\029_Casting\\Program.cs",
+              "RelativeDocumentMoniker": "029_Casting\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\029_Casting\\Program.cs",
+              "RelativeToolTip": "029_Casting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:33:52.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\028_Conversions\\Program.cs",
+              "RelativeDocumentMoniker": "028_Conversions\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\028_Conversions\\Program.cs",
+              "RelativeToolTip": "028_Conversions\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:23:03.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\base\\Program.cs",
+              "RelativeDocumentMoniker": "base\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\base\\Program.cs",
+              "RelativeToolTip": "base\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAA4wGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:51:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "virtual.png",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\025_Virtual\\virtual.png",
+              "RelativeDocumentMoniker": "025_Virtual\\virtual.png",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\025_Virtual\\virtual.png",
+              "RelativeToolTip": "025_Virtual\\virtual.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T16:13:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\026_SystemObject\\Program.cs",
+              "RelativeDocumentMoniker": "026_SystemObject\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\026_SystemObject\\Program.cs",
+              "RelativeToolTip": "026_SystemObject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:02:59.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\025_Virtual\\Program.cs",
+              "RelativeDocumentMoniker": "025_Virtual\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\025_Virtual\\Program.cs",
+              "RelativeToolTip": "025_Virtual\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:42:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\TODO\\Program.cs",
+              "RelativeDocumentMoniker": "TODO\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\TODO\\Program.cs",
+              "RelativeToolTip": "TODO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:18:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\024_Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "024_Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\UltimateC#\\003_OOP_2\\024_Polymorphism\\Program.cs",
+              "RelativeToolTip": "024_Polymorphism\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:52:04.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 15,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

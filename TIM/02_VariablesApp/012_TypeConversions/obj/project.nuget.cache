@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vtJbdTR61tL2LVeDVCXvDvZ1a3ZpbCxCOvCUClNkchn31uE+3dRPzmiMNCtdMDhiCcWNvA3QE4s8aGBqlDdPfA==",
+  "dgSpecHash": "qBbBXhtCKeZRz5tKozM8QScDAfnotSxmikwr4bYBuamcJ43NbZ10OVMzBSoGcIcrK8pH46y7sQwV8epUN+O+Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\002_VariablesApp\\012_TypeConversions\\012_TypeConversions.csproj",
+  "projectFilePath": "C:\\Users\\karth\\source\\repos\\ToDoList\\CSHARP\\TIM\\02_VariablesApp\\012_TypeConversions\\012_TypeConversions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
